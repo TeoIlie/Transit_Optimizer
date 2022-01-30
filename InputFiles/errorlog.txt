@@ -1,0 +1,22 @@
+318DE758,SA,2B,2019X304  Transit type is incorrect.
+
+8562792,N,C,17,20190304  Transit type is incorrect.
+
+*,S,A,6,20190304,90304  Too many attributes.
+
+6750708,G,S,7,2BC9B304 Invalid ID
+
+T201903046226830,,A,10,20190304  Transit type is incorrect.
+
+6165954,C,A,D,20190304 Invalid ID
+
+956866X,X,A,19,20190304 Invalid ID
+
+S,A,15,20190304  Transit type is incorrect.
+
+,D,A,7,20190304  Too few attributes.
+
+9393317,X,X,16,20190304  Age group is incorrect.
+
+247A267,C,A,1,20190304 Invalid ID
+
